@@ -1,3 +1,13 @@
+#### About 
+The web app simply displays 24 accessible news sources with English news in the US.
+
+#### Technology Used
+- Javascript(React library)
+- HTML5
+- CSS3
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

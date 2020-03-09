@@ -1,0 +1,12 @@
+.footer__greet {
+  color: rgb(255, 255, 255);
+}
+
+.footer__copyright {
+  color: white;
+  font-size: 12px;
+}
+.footer__link {
+  text-decoration: none;
+  color: white;
+}
